@@ -1,7 +1,7 @@
 Hi 👋 My name is Vijayan R
 ==========================
 
-Developer and Ethical Hacker
+Web Developer and Ethical Hacker
 ----------------------------
 
 I've Learning coding from age of 18 .I have done many projects and worked with many IT peoples and i also reported many bugs in Private programs.
