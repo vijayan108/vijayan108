@@ -10,7 +10,7 @@ src="https://img.shields.io/github/followers/vijayan108?logo=github&style=for-th
 
 
 # 💫 About Me:
-🔭 I’m currently working on engineerhub<br>👯 I’m looking to collaborate on projects with other developers<br>🤝 I’m looking for help with improving my coding skills<br>🌱 I’m currently learning new programming languages and frameworks<br>💬 Ask me about software development and coding techniques<br>⚡ Fun fact: Did you know that the first computer programmer was a woman named Ada Lovelace? She wrote the first algorithm intended to be processed by a machine, making her the world's first programmer.
+👯 I’m looking to collaborate on projects with other developers<br>🤝 I’m looking for help with improving my coding skills<br>🌱 I’m currently learning new programming languages and frameworks<br>💬 Ask me about software development and coding techniques<br>⚡ Fun fact: Did you know that the first computer programmer was a woman named Ada Lovelace? She wrote the first algorithm intended to be processed by a machine, making her the world's first programmer.
 
 
 ## 🌐 Socials:
