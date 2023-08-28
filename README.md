@@ -23,6 +23,9 @@ src="https://img.shields.io/github/followers/vijayan108?logo=github&style=for-th
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vijayan108&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayan108&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## Studies:
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64afdca25f038d81eeaeb123?variant=dark&roadmaps=prompt-engineering%2Cfrontend)](https://roadmap.sh)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vijayan108&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
