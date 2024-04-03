@@ -1,16 +1,16 @@
 Hi 👋 My name is Vijayan R
 ==========================
 
-Web Developer and Ethical Hacker
+Full Stack Developer and Ethical Hacker
 ----------------------------
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <a href="https://www.github.com/vijayan108" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/vijayan108?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/vijayan108?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>       [![](https://visitcount.itsvg.in/api?id=vijayan108&icon=4&color=3)](https://visitcount.itsvg.in)
 
 
 # 💫 About Me:
-👯 I’m looking to collaborate on projects with other developers<br>🤝 I’m looking for help with improving my coding skills<br>🌱 I’m currently learning new programming languages and frameworks<br>💬 Ask me about software development and coding techniques<br>⚡ Fun fact: Did you know that the first computer programmer was a woman named Ada Lovelace? She wrote the first algorithm intended to be processed by a machine, making her the world's first programmer.
+👯 I’m looking to collaborate on projects with other developers<br>🤝 I’m looking for help with improving my coding skills<br>🌱 I’m currently learning new Technology and frameworks<br>💬 Ask me about software development and coding techniques<br>⚡ Fun fact: Did you know that the first computer programmer was a woman named Ada Lovelace? She wrote the first algorithm intended to be processed by a machine, making her the world's first programmer.
 
 
 ## 🌐 Socials:
@@ -37,5 +37,5 @@ src="https://img.shields.io/github/followers/vijayan108?logo=github&style=for-th
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vijayan108&icon=4&color=3)](https://visitcount.itsvg.in)
+
 
